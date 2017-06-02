@@ -1,0 +1,58 @@
+<!-- BEGIN CSS -->
+<style>
+
+    body {
+        background-color: grey;
+    }
+
+    #tred {
+        color: red;
+    }
+
+    #tblue {
+        color: blue;
+    }
+
+    #tgreen {
+        color: green;
+    }
+
+    #tbig {
+        font-size: 24pt;
+    }
+
+    #tsmall {
+        font-size: 8pt;
+    }
+
+    #tcenter {
+        text-align: center;
+    }
+
+    #tbold {
+        font-weight: bold;
+    }
+
+    #fontstyle {
+        font-family: monospace;
+    }
+
+    #multiple {
+        font-size: 18pt;
+        color: orange;
+        font-weight: bold;
+    }
+
+    .styledFont {
+        background-color: blue;
+        color: white;
+        font-size: 18pt;
+    }
+    
+    #styledImage {
+        border-style: solid;
+        border-width: 5px;
+        border-color: green;
+    }
+</style> 
+<!-- END CSS -->
